@@ -1,0 +1,21 @@
+# CMake build output
+build/
+CMakeFiles/
+CMakeCache.txt
+CMakeScratch/
+cmake_install.cmake
+Makefile
+CMakeUserPresets.json
+
+# compiled artifacts
+*.o
+*.obj
+*.a
+*.so
+*.so.*
+*.dylib
+*.exe
+*.out
+01_hello_world/Helloworld
+02_calculator/demo
+02_calculator/libcomplex.a
